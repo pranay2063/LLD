@@ -14,3 +14,6 @@ Problems
   3. Design Producer/Consumer
   4. Design a chess game
   5. Design a tic-tac-toe - https://www.youtube.com/watch?v=gktZsX9Z8Kw
+
+Resources
+  1. Refactoring by Martin Fowler https://github.com/HugoMatilla/Refactoring-Summary 
