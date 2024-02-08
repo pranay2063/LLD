@@ -2,11 +2,15 @@
 
 SOLID Principles -
   1. https://en.wikipedia.org/wiki/SOLID
-  2. https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
-  3. Separation of concerns - https://en.wikipedia.org/wiki/Separation_of_concerns
+  2. https://www.youtube.com/watch?v=HoA6aZPR5K0
+  3. https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+  4. Separation of concerns - https://en.wikipedia.org/wiki/Separation_of_concerns
 
 Design Patterns - https://en.wikipedia.org/wiki/Software_design_pattern
-* https://github.com/pranay2063/CS17/tree/master/DesignPatterns
+* Types -
+  1. Creational - Singleton, Factory
+  2. Structural -
+  3. Behavioural - Observer, Strategy
 
 Problems
   1. Design a lift
