@@ -13,11 +13,11 @@ Design Patterns - https://en.wikipedia.org/wiki/Software_design_pattern
   3. Behavioural - Observer, Strategy
 
 Problems
-  1. Design a lift
-  2. Design a parking lot
-  3. Design Producer/Consumer
-  4. Design a chess game
-  5. Design a tic-tac-toe - https://www.youtube.com/watch?v=gktZsX9Z8Kw
+  1. Design an elevator https://github.com/eMahtab/design-an-elevator-system 
+  2. Design Producer/Consumer
+  3. Design a chess game
+  4. Design a tic-tac-toe - https://www.youtube.com/watch?v=gktZsX9Z8Kw
+  5. Design a parking lot
 
 Resources
   1. Refactoring by Martin Fowler https://github.com/HugoMatilla/Refactoring-Summary 
