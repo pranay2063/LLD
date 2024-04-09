@@ -8,16 +8,20 @@ SOLID Principles -
 
 Design Patterns - https://en.wikipedia.org/wiki/Software_design_pattern
 * Types -
-  1. Creational - Singleton, Factory
+  1. Creational - Singleton, Factory, Prototype
   2. Structural -
-  3. Behavioural - Observer, Strategy
+  3. Behavioural - Observer, Strategy, Iterator, Chain of responsibility
 
 Problems
-  1. Design an elevator https://github.com/eMahtab/design-an-elevator-system 
-  2. Design Producer/Consumer
-  3. Design a chess game
-  4. Design a tic-tac-toe https://www.youtube.com/watch?v=gktZsX9Z8Kw
-  5. Design a parking lot
+  1. Design logger
+  2. Design an elevator https://github.com/eMahtab/design-an-elevator-system 
+  3. Design Producer/Consumer
+  4. Design a chess game
+  5. Design a tic-tac-toe https://www.youtube.com/watch?v=gktZsX9Z8Kw
+  6. Design a parking lot
+
+Spring Boot
+  1. [Component, Service, Repository, Controller](https://stackoverflow.com/questions/6827752/whats-the-difference-between-component-repository-service-annotations-in)
 
 Resources
   1. Refactoring by Martin Fowler https://github.com/HugoMatilla/Refactoring-Summary 
