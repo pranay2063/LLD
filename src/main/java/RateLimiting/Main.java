@@ -15,7 +15,7 @@ public class Main {
             Request request;
             int count = 0;
             while (count < 10){
-                request = new Request("Request"+count++);
+                request = new Request("Request"+count, "User"+count++);
                 try {
                     leakyBucket.acceptRequest(request);
                 } catch (InterruptedException e) {
@@ -46,7 +46,7 @@ public class Main {
             Request request;
             int count = 0;
             while (count < 10){
-                request = new Request("Request"+count++);
+                request = new Request("Request"+count, "User"+count++);
                 tokenBucket.acceptRequest(request);
             }
         };
@@ -66,8 +66,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        callTokenBucket();
-        //callLeakyBucket();
+        //callTokenBucket();
+        callLeakyBucket();
 
     }
 

@@ -27,6 +27,9 @@ public class LeakyBucket implements RateLimiter {
             System.out.println("Request accepted successfully: "+request.getMessage());
             queue.put(request);
         }
+        else {
+            System.out.println("Request dropped: "+request.getMessage());
+        }
     }
 
     public void processRequest(){
