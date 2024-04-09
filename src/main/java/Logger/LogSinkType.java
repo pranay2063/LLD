@@ -1,4 +1,4 @@
-package LLD.Logger;
+package Logger;
 
 public enum LogSinkType {
     CONSOLE, FILE

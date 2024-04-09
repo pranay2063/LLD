@@ -1,4 +1,4 @@
-package LLD.Logger;
+package Logger;
 
 public interface LogPublisher {
 

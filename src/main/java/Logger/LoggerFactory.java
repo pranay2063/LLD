@@ -1,4 +1,4 @@
-package LLD.Logger;
+package Logger;
 
 public class LoggerFactory {
     private static volatile Logger logger;
