@@ -3,9 +3,9 @@
 ## OOPS 
 
   1. Inheritance
-  2. Polymorphism
-     2.1 Compile-time (Function Overloading)
-     2.2 Runtime or dynamic (Function Overriding)   
+  2. Polymorphism <br>
+     2.1 Compile-time (Function Overloading) <br>
+     2.2 Runtime or dynamic (Function Overriding) <br>
   3. Encapsulation
   4. Abstraction
 
