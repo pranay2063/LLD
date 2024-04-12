@@ -25,7 +25,7 @@
 
 https://en.wikipedia.org/wiki/Software_design_pattern
 
-Types -
+Types
   1. Creational - Singleton, Factory, Prototype
   2. Structural -
   3. Behavioural - Observer, Strategy, Iterator, Chain of responsibility
