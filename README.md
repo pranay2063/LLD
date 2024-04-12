@@ -11,7 +11,7 @@
 
 ## Object modelling using UML diagram
 
-  1. Class diagram (Structural UML)
+  1. [Class diagram (Structural UML)](https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/)
   2. Sequence, usecase, activity diagrams (Behavioral UML)
 
 ## SOLID Principles
