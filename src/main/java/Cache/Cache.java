@@ -1,5 +1,11 @@
 package Cache;
 
+/**
+ * Cache uses factory design pattern to create a cache belonging to a particular policy say LRU
+ * It uses strategy design patten to execute get and put operations for depending on a particular policy
+ * @param <t1>
+ * @param <t2>
+ */
 public class Cache<t1, t2> {
 
     private final int size;
