@@ -30,6 +30,8 @@ Types
   2. Structural -
   3. Behavioural - Observer, Strategy, Iterator, Chain of responsibility
 
+[Which design pattern to pick?](https://stackoverflow.com/questions/4853905/which-design-pattern-to-choose)
+
 ## Problems
 
   1. Design logger
