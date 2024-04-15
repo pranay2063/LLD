@@ -1,6 +1,6 @@
 # Producer Consumer
 ## Problem statement 
-1. There is a buffer which can hold limited messsages
+1. There is a buffer which can hold limited messages (fixed capacity)
 2. There can be one or more producers
 3. There can be one or more consumers
 4. Producer must wait to produce if the buffer is full
