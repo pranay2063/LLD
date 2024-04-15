@@ -39,10 +39,10 @@ Types
   3. Design a cache
   4. Design publisher subscriber
   5. Design producer consumer
-  6. Design an elevator https://github.com/eMahtab/design-an-elevator-system 
-  7. Design a chess game
-  8. Design a tic-tac-toe https://www.youtube.com/watch?v=gktZsX9Z8Kw
-  9. Design a parking lot
+  6. Design a tic-tac-toe https://www.youtube.com/watch?v=gktZsX9Z8Kw
+  7. Design a parking lot
+  8. Design an elevator https://github.com/eMahtab/design-an-elevator-system
+  9. Design a chess game
 
 ## Resources
 
