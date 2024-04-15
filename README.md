@@ -27,7 +27,7 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 
 Types
   1. Creational - Singleton, Factory, Prototype
-  2. Structural -
+  2. Structural - Facade, Adaptor, Decorator
   3. Behavioural - Observer, Strategy, Iterator, Chain of responsibility
 
 [Which design pattern to pick?](https://stackoverflow.com/questions/4853905/which-design-pattern-to-choose)
@@ -35,14 +35,15 @@ Types
 ## Problems
 
   1. Design logger
-  2. Design a rate-limiter
-  3. Design a cache
-  4. Design publisher subscriber
-  5. Design producer consumer
-  6. Design a tic-tac-toe https://www.youtube.com/watch?v=gktZsX9Z8Kw
-  7. Design a parking lot
-  8. Design an elevator https://github.com/eMahtab/design-an-elevator-system
-  9. Design a chess game
+  2. Design slf4j 
+  3. Design a rate-limiter
+  4. Design a cache
+  5. Design publisher subscriber
+  6. Design producer consumer
+  7. Design a tic-tac-toe https://www.youtube.com/watch?v=gktZsX9Z8Kw
+  8. Design a parking lot
+  9. Design an elevator https://github.com/eMahtab/design-an-elevator-system
+  10. Design a chess game
 
 ## Resources
 
