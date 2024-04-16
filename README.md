@@ -27,7 +27,7 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 
 Types
   1. Creational - Singleton, Factory, Prototype
-  2. Structural - Facade, Adaptor, Decorator
+  2. Structural - Facade, Adaptor, Decorator, Proxy
   3. Behavioural - Observer, Strategy, Iterator, Chain of responsibility
 
 [Which design pattern to pick?](https://stackoverflow.com/questions/4853905/which-design-pattern-to-choose)
