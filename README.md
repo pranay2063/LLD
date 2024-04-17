@@ -8,6 +8,7 @@
      2.2 Runtime or dynamic (Function Overriding) <br>
   3. Encapsulation
   4. Abstraction
+  5. Association, aggregation and composition 
 
 ## Object modelling using UML diagram
 
