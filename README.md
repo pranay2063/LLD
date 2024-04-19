@@ -49,4 +49,5 @@ Types
 ## Resources
 
   1. Spring Boot [Component, Service, Repository, Controller](https://stackoverflow.com/questions/6827752/whats-the-difference-between-component-repository-service-annotations-in)
-  2. Refactoring by Martin Fowler https://github.com/HugoMatilla/Refactoring-Summary 
+  2. Refactoring by Martin Fowler https://github.com/HugoMatilla/Refactoring-Summary
+  3. [Facade, Adaptor, Decorator, Proxy](https://stackoverflow.com/questions/3489131/difference-between-the-facade-proxy-adapter-and-decorator-design-patterns)
