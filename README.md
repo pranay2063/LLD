@@ -1,5 +1,11 @@
 # LLD
 
+## Overview
+LLD stands for low-level design and the goal here is to code different components of a system. Specifically, the idea here is to design classes, their members and the interaction among them. The prime focus while doing this is to take care of following principles -
+1. Correctness
+2. Readability
+3. Extensibility
+
 ## OOPS 
 
   1. Inheritance
