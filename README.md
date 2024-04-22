@@ -26,7 +26,7 @@ LLD stands for low-level design and the goal here is to code different component
   1. https://en.wikipedia.org/wiki/SOLID
   2. https://www.youtube.com/watch?v=HoA6aZPR5K0
   3. https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
-  4. Separation of concerns - https://en.wikipedia.org/wiki/Separation_of_concerns
+  4. Separation of concerns - https://en.wikipedia.org/wiki/Separation_of_concerns (Microservices as an example)
 
 ## Design Patterns
 
