@@ -33,7 +33,7 @@ LLD stands for low-level design and the goal here is to code different component
 https://en.wikipedia.org/wiki/Software_design_pattern
 
 Types
-  1. Creational - Singleton, Factory, Prototype
+  1. Creational - Singleton, Factory, Prototype, Builder
   2. Structural - Facade, Adaptor, Decorator, Proxy
   3. Behavioural - Observer, Strategy, Iterator, Chain of responsibility
 
